@@ -3,19 +3,15 @@
 ## Project Overview
 <p align="center" width="75%">
   <img src="/images/20200517_195020.jpg" width="75%">
+</p>
   This is a year 1 physical prototyping project involving CAD design, 3D printing & scanning, linkage, Arduino, and mobile App.
 I created a scene of a traditional smithy. When the system is turned on, the blacksmith starts to strike the unfinished sword with a hammer. The air blower pumps air into the forge while the fire inside the forge is flickering (lighted up by LED) and jumping up and down. The driven motor can be tele-controlled by an Android App with either touching and motion detection.
-</p>
-
-
-
 
 ## Mechanism
 <p align="center">
   <img src="/images/image1.png" width="75%">
   <img src="/linkages/Bar_air_blower.png" width="75%">
   <img src="/linkages/Bar_fire.png" width="75%">
-  <img src="/linkages/Bar_hammer.png" width="75%">
 </p>
 The mechanical motion system consists of three parts, the blacksmith, the air blower and the forge. Each part is an extension from four-bar linkage, designed by me. I separately designed each single mechanism, and then combined them all together with gears, so that it can be driven by one motor.
 
@@ -32,4 +28,4 @@ The torque of the linkage system fluctuates while working. At the beginning, I u
 </p>
 
 ## Conclusion
-
+In this project, I spent most of my time on linkage design and PID controller. For mechanical design, It takes me quite a lot of time to adjust dimensions for different linkage systems to fit into one. There were always some unexpected interferences that I should deal with. If I were doing this project once again, I would consider the system as a whole thing at the very beginning. This is also my first time to write a PID controller by myself. Its performance turned out to be so amazing and I'm proud of it. 
