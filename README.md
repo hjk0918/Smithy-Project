@@ -1,6 +1,6 @@
 # Physical Prototyping: Smithy
 <p align="center" width="75%">
-  [!Youtube Link](https://youtu.be/cRNW_WYLdRA)
+  <iframe width="560" height="315" src="https://youtu.be/cRNW_WYLdRA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </p>
 
 ## Project Overview
