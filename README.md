@@ -3,10 +3,11 @@
 ## Project Overview
 <p align="center" width="75%">
   <img src="/images/20200517_195020.jpg" width="75%">
+  This is a year 1 physical prototyping project involving CAD design, 3D printing & scanning, linkage, Arduino, and mobile App.
+I created a scene of a traditional smithy. When the system is turned on, the blacksmith starts to strike the unfinished sword with a hammer. The air blower pumps air into the forge while the fire inside the forge is flickering (lighted up by LED) and jumping up and down. The driven motor can be tele-controlled by an Android App with either touching and motion detection.
 </p>
 
-This is a year 1 physical prototyping project involving CAD design, 3D printing & scanning, linkage, Arduino, and mobile App.
-I created a scene of a traditional smithy. When the system is turned on, the blacksmith starts to strike the unfinished sword with a hammer. The air blower pumps air into the forge while the fire inside the forge is flickering (lighted up by LED) and jumping up and down. The driven motor can be tele-controlled by an Android App with either touching and motion detection.
+
 
 
 ## Mechanism
