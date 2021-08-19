@@ -1,4 +1,7 @@
 # Physical Prototyping: Smithy
+<p align="center" width="75%">
+  [!Youtube Link](https://youtu.be/cRNW_WYLdRA)
+</p>
 
 ## Project Overview
 <p align="center" width="75%">
