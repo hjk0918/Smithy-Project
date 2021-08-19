@@ -1,6 +1,7 @@
 # Physical Prototyping: Smithy
 Click here to see demo video:
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/cRNW_WYLdRA/0.jpg)](http://www.youtube.com/watch?v=cRNW_WYLdRA "Video Title")
+
+   [![IMAGE ALT TEXT](http://img.youtube.com/vi/cRNW_WYLdRA/0.jpg)](http://www.youtube.com/watch?v=cRNW_WYLdRA "Video Title")
 
 
 ## Project Overview
