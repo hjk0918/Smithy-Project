@@ -1,7 +1,6 @@
 # Physical Prototyping: Smithy
-<p align="center" width="75%">
-  [![IMAGE ALT TEXT](http://img.youtube.com/vi/cRNW_WYLdRA/0.jpg)](http://www.youtube.com/watch?v=cRNW_WYLdRA "Video Title")
-</p>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/cRNW_WYLdRA/0.jpg)](http://www.youtube.com/watch?v=cRNW_WYLdRA "Video Title")
+
 
 ## Project Overview
 <p align="center" width="75%">
