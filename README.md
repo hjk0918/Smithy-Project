@@ -1,7 +1,7 @@
 # Physical Prototyping: Smithy
 
 ## Project Overview
-<p align="center">
+<p align="center" width="75%">
   <img src="/images/20200517_195020.jpg" width="75%">
 </p>
 
